@@ -1,0 +1,15 @@
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\bin\Debug\telaLogin.exe.config
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\bin\Debug\telaLogin.exe
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\bin\Debug\telaLogin.pdb
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Form1.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Properties.Resources.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.csproj.GenerateResource.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.exe
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.pdb
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Form2.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Form3.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Cadastro_client.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Apagar_conta.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\ATIVIDADES EAD 2021\Elaine\Tela_Login\TelaLogin2\telaLogin\telaLogin\obj\Debug\telaLogin.Form4.resources
